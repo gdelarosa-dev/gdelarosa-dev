@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Gabriel 👋
 
-<!--
-**gdelarosa-dev/gdelarosa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at UDG 🇲🇽
 
-Here are some ideas to get you started:
+I'm currently building my skills in software development and creating projects to strengthen my portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+* Python
+* C++
+* Git & GitHub
+
+## Goals for 2026
+
+* Build a solid Python portfolio
+* Improve problem-solving skills
+* Learn software development best practices
+* Prepare for internships and professional opportunities
+
+## Current Project
+
+🐍 Python Fundamentals Journey
