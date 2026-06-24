@@ -10,12 +10,12 @@ I'm currently building my skills in software development and creating projects t
 * C++
 * Git & GitHub
 
-## Goals for 2026
+## Current Goals
 
-* Build a solid Python portfolio
-* Improve problem-solving skills
-* Learn software development best practices
-* Prepare for internships and professional opportunities
+- Build a strong Python portfolio
+- Improve problem-solving skills
+- Learn software development best practices
+- Prepare for internships and professional opportunities
 
 ## Current Project
 
